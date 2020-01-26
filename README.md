@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img alt="DevRadar" title="#DevRadar" src=".github/devradar.jpeg" width="250px" />
+    <img alt="DevRadar" title="#DevRadar" src=".github/devradar.svg" width="250px" />
 </h1>
 
 <h4 align="center">
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img alt="Frontend" src=".github/devradar-screens.jpeg" width="100%">
+  <img alt="Frontend" src=".github/devradar-screens.png" width="100%">
 </p>
 
 ## 🚀 Technologies
@@ -50,5 +50,5 @@ DevRadar is an application that aims to facilitate the location of developers wh
 
 ## 📝 License
 
-This project is under the MIT license. See the [LICENSE](LICENSE.md) for more details.
+This project is under the MIT license. See the [LICENSE](LICENSE) for more details.
 
