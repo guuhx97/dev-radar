@@ -7,7 +7,7 @@
 </h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/guuhx97/bethehero">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/guuhx97/dev-radar">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 <p align="center">
@@ -29,7 +29,7 @@ O <b>DevRadar</b> é uma aplicação com intuito de facilitar a localização de
 
 
 ## 🔄 Executar
- - Fazer clone do repositório.
+ - Fazer clone do repositório;
 
 ### 🔧 Back-end
  - Entrar na pasta `backend`;
@@ -57,4 +57,6 @@ Este projeto está sobre a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) pa
 
 ---
 
-<center>Feito com ❤️ by Gustavo Souza</center>
+<h4 align="center">
+  Feito com ❤️ by Gustavo Souza
+</h4>
