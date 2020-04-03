@@ -19,7 +19,7 @@ O aplicativo mobile do Dev Radar conta com uma interface principal, onde se loca
     <img alt="Dev Radar" src="../.github/mobile-home01.png" width="200px" height="355.5px"/>
     <img alt="Dev Radar" src="../.github/mobile-home02.png" width="200px" />
     <img alt="Dev Radar" src="../.github/mobile-github.png" width="200px" />
-    <img alt="Dev Radar" src="https://gist.github.com/guuhx97/95cb43cc2fad5c525b169c164327cb7b/raw/06a837231df61e41e30811cc4c096a7030c9ce18/devradar.gif" width="200px" height="355.5px" />
+    <img alt="Dev Radar" src="../.github/mobile-devradar.gif" width="200px" height="355.5px" />
 </div>
 
 ## 🔄 Executar
