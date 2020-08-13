@@ -12,26 +12,26 @@
 </p>
 
 ## 📱 Interfaces
-O aplicativo mobile do Dev Radar conta com uma interface principal, onde se localiza o mapa e um campo de busca, o qual pode ser utilizado para buscar outros *Devs* próximos e que tenham interesse nas mesmas linguagens. Além diss, é possível abrir o github do dev diretamente pelo aplicativo.
 
+O aplicativo mobile do Dev Radar conta com uma interface principal, onde se localiza o mapa e um campo de busca, o qual pode ser utilizado para buscar outros _Devs_ próximos e que tenham interesse nas mesmas linguagens. Além diss, é possível abrir o github do dev diretamente pelo aplicativo.
 
 <div align="center">
-    <img alt="Dev Radar" src="../.github/mobile-home01.png" width="200px" height="355.5px"/>
-    <img alt="Dev Radar" src="../.github/mobile-home02.png" width="200px" />
-    <img alt="Dev Radar" src="../.github/mobile-github.png" width="200px" />
-    <img alt="Dev Radar" src="../.github/mobile-devradar.gif" width="200px" height="355.5px" />
+    <img alt="Dev Radar" src="../.github/mobile-interface.png"  height="355.5px"/>
+
 </div>
 
 ## 🔄 Executar
-- Entrar na pasta `mobile`;
- - Executar `yarn install` para instalar dependências do projeto;
- - Executar `yarn start` para que o projeto seja executado;
 
- ## 📝 Licença
+- Entrar na pasta `mobile`;
+- Executar `yarn install` para instalar dependências do projeto;
+- Executar `yarn start` para que o projeto seja executado;
+
+## 📝 Licença
+
 Este projeto está sobre a licença MIT. Veja o arquivo [LICENSE](../LICENSE.md) para mais detalhes.
 
-
 ---
+
 <h4 align="center">
   Feito com ❤️ by Gustavo Souza
 </h4>
